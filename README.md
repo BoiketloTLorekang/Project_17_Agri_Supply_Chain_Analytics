@@ -72,7 +72,7 @@ Tracks crop movements through the supply chain.
 
 ## 🌱 Farm Production Overview
 
-![Farm Overview](screenshots/farm_overview.png)
+![Farm Overview](screenshots/Farm_Overview.png)
 
 This dashboard highlights:
 
@@ -99,7 +99,7 @@ This dashboard analyzes crop-level financial performance:
 
 ## 🚛 Supply Chain Distribution
 
-![Supply Chain](screenshots/supply_chain.png)
+![Supply Chain](screenshots/Supply_Chain.png)
 
 This dashboard focuses on supply chain efficiency:
 
